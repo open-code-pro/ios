@@ -6,6 +6,7 @@ body {
 }
 
 .container {
+    height: 100%;
     margin-top: 50px;
 }
 
