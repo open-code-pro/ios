@@ -42,3 +42,7 @@ h1 {
     width: auto;
     border-radius: 15px;
 }
+
+.policy-text {
+    text-align: start;
+}
