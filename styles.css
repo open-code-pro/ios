@@ -49,4 +49,13 @@ h1 {
 
 .policy-text {
     text-align: start;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+@media (max-width: 600px) {
+    .policy-text {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 }
