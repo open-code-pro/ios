@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 200px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.app-row, .image-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.app-logo, .header-logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+}
+
+.header-logo {
+    width: 200px;
+    height: 200px;
+}
+
+.app-link, .link {
+    color: black;
+    text-decoration: underline;
+    font-size: large;
+}
+
+.wallpaper {
+    height: 450px;
+    width: auto;
+    border-radius: 15px;
+}
